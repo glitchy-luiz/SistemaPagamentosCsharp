@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPagamentos", "SistemaPagamentos.csproj", "{1442918D-9C01-44A4-B1A6-CBA26420E503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1442918D-9C01-44A4-B1A6-CBA26420E503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1442918D-9C01-44A4-B1A6-CBA26420E503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1442918D-9C01-44A4-B1A6-CBA26420E503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1442918D-9C01-44A4-B1A6-CBA26420E503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63E5DA50-5629-4297-A706-E3A081A23399}
+	EndGlobalSection
+EndGlobal

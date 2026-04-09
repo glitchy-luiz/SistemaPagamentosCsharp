@@ -1,0 +1,14 @@
+C:\Users\luizsouza\source\repos\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.exe
+C:\Users\luizsouza\source\repos\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.deps.json
+C:\Users\luizsouza\source\repos\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.runtimeconfig.json
+C:\Users\luizsouza\source\repos\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.dll
+C:\Users\luizsouza\source\repos\SistemaPagamentos\bin\Debug\net8.0\SistemaPagamentos.pdb
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.AssemblyInfoInputs.cache
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.AssemblyInfo.cs
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.dll
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\refint\SistemaPagamentos.dll
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.pdb
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\SistemaPagamentos.genruntimeconfig.cache
+C:\Users\luizsouza\source\repos\SistemaPagamentos\obj\Debug\net8.0\ref\SistemaPagamentos.dll
