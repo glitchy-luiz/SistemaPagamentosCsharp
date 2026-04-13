@@ -5,11 +5,11 @@ O sistema permite ao usuário escolher entre pagamento com Cartão ou pagamento 
 
 ## Autores:
 (completar nome e rm dps)
-- Bruno Otavio RM:
-- Guilherme Flores RM:
+- Bruno Otavio Silva de Oliveira RM: 556196
+- Guilherme Flores Pereira de Almeida RM: 554948
 - Leonardo RM:
-- Luiz Fernando de Aragão Souza RM:
-- Marcello de Freitas Moreira RM:
+- Luiz Fernando de Aragão Souza RM: 555561
+- Marcello de Freitas Moreira RM: 557531
 
 ## Objetivos do Projeto
 
