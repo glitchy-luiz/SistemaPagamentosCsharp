@@ -7,7 +7,7 @@ O sistema permite ao usuário escolher entre pagamento com Cartão ou pagamento 
 (completar nome e rm dps)
 - Bruno Otavio Silva de Oliveira RM: 556196
 - Guilherme Flores Pereira de Almeida RM: 554948
-- Leonardo RM:
+- Leonardo Novaes RM: 554807
 - Luiz Fernando de Aragão Souza RM: 555561
 - Marcello de Freitas Moreira RM: 557531
 
